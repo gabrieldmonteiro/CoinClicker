@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-image: url(../../src/img/bg.jpg);
+}
+
+#tt{
+    color: white;
+    font-family: consolas;
+    font-weight: bolder;   
+    text-shadow: 2px 2px 3px rebeccapurple; 
+}
+
+#nCoins{
+    color: white;
+    font-family: consolas;
+    font-weight: bolder;   
+    text-shadow: 2px 2px 3px rebeccapurple; 
+}
+
+#inventory{
+    color: white;
+    font-family: consolas;
+    font-weight: bolder;   
+    font-size: 30pt;
+    text-shadow: 2px 2px 3px rebeccapurple; 
+    padding: 20px;
+}
+
+.btn{
+    margin-right: 2%;    
+}
+
+.btFooter{
+    float:right;
+}
+

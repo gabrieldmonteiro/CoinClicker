@@ -7,7 +7,7 @@ var valInv = [10, 20, 40];
 
 //Frames por segundo
 var FPS = 30;
-var FPSp = 1;
+var FPSp = 15;
 
 //Funcao adicionar moedas por click
 function addCoins() {
